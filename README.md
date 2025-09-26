@@ -41,12 +41,17 @@ pip install -r requirements.txt
 
 Run the notebook to explore the analysis and model training.
 
-Project Structure
-├── data/                # Dataset files
-├── notebooks/           # Jupyter notebooks
-├── models/              # Saved ML models
-├── README.md            # Project documentation
-├── requirements.txt     # Python dependencies
+**Project Structure**
+
+README.md
+
+Titanic_Survival_Prediction.ipynb
+
+Titanic.csv
+
+.gitignore
+
+requirements.txt
 
 Contact
 
